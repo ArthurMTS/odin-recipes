@@ -1,4 +1,4 @@
-# odin-recipes
+# Odin Recipes
 A recipes sites for The Odin Project curriculum, the objective of this project is to practice the basics of HTML, such as (links, images, lists, etc).
 
 #### Useful links
